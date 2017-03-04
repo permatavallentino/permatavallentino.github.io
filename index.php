@@ -1,4 +1,0 @@
-<?
-echo 'kok kepo sih?'
-
-<?
